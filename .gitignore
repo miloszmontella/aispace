@@ -1,0 +1,17 @@
+node_modules/
+.node_modules.lock
+.tanstack/
+.vercel/
+android/.build/
+android/.www/
+android/debug.keystore
+screenshots/
+aurelle-cursor.zip
+AURELLE-1.0.39.apk
+public/aurelle.apk
+public/aurelle.apk.idsig
+public/vektor.apk.idsig
+.env
+.env.*
+*.log
+.DS_Store
